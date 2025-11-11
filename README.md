@@ -1,2 +1,2 @@
-# csharp_exercism
-csharp_exercism_problems
+# exercism
+exercism_soltions
